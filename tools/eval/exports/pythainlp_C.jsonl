@@ -1,0 +1,8 @@
+{"doc_id": "NEG-005", "type": "TIME", "start": 29, "end": 37}
+{"doc_id": "NEG-006", "type": "MONEY", "start": 11, "end": 20}
+{"doc_id": "NEG-006", "type": "PERCENT", "start": 32, "end": 35}
+{"doc_id": "NEG-013", "type": "PERSON", "start": 5, "end": 31}
+{"doc_id": "NEG-028", "type": "MONEY", "start": 18, "end": 39}
+{"doc_id": "NEG-030", "type": "TIME", "start": 33, "end": 39}
+{"doc_id": "NEG-032", "type": "MONEY", "start": 20, "end": 41}
+{"doc_id": "NEG-033", "type": "DATE", "start": 0, "end": 6}

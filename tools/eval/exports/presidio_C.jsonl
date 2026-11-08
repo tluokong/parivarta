@@ -1,0 +1,8 @@
+{"doc_id": "NEG-004", "type": "PHONE_NUMBER", "start": 21, "end": 34}
+{"doc_id": "NEG-013", "type": "PERSON", "start": 0, "end": 31}
+{"doc_id": "NEG-015", "type": "DATE_TIME", "start": 0, "end": 36}
+{"doc_id": "NEG-028", "type": "DATE_TIME", "start": 18, "end": 28}
+{"doc_id": "NEG-030", "type": "US_DRIVER_LICENSE", "start": 19, "end": 25}
+{"doc_id": "NEG-031", "type": "NRP", "start": 12, "end": 25}
+{"doc_id": "NEG-033", "type": "PERSON", "start": 0, "end": 34}
+{"doc_id": "NEG-036", "type": "PERSON", "start": 0, "end": 38}

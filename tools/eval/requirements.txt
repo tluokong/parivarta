@@ -1,0 +1,6 @@
+# Baseline runners (score.py and run_regex.py are stdlib-only).
+pythainlp==5.3.4
+python-crfsuite         # thainer CRF engine
+spacy>=3.7              # run_spacy.py  (also: python -m spacy download xx_ent_wiki_sm)
+presidio-analyzer>=2.2 # run_presidio.py
+anthropic>=0.40        # run_llm.py (set ANTHROPIC_API_KEY)

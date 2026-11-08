@@ -1,0 +1,13 @@
+{"doc_id":"HP-000","text":"ที่อยู่ 99/1 หมู่ 5 ต.บางพลี อ.เมือง จ.ชลบุรี 20000","category":"ADDR_VAR"}
+{"doc_id":"HP-001","text":"บ้านเลขที่ 12 ถนนสุขุมวิท กรุงเทพฯ 10110","category":"ADDR_VAR"}
+{"doc_id":"HP-002","text":"คอนโดชั้น 8 ห้อง 802 อาคารเอ ซอยลาดพร้าว 15","category":"ADDR_VAR"}
+{"doc_id":"HP-003","text":"เลขที่ 5 ซอย 3 ถนนพหลโยธิน แขวงจตุจักร เขตจตุจักร","category":"ADDR_VAR"}
+{"doc_id":"HP-004","text":"นายสมชาย ใจดี โทร 081-234-5678 อีเมล somchai@mail.com","category":"MULTI"}
+{"doc_id":"HP-005","text":"ติดต่อ นางสาวมาลี หรือ นายวิชัย ที่ 02-111-2222 และ 02-333-4444","category":"MULTI"}
+{"doc_id":"HP-006","text":"ผู้โอนคือ ธนกร ปลายทาง กสิกร 1234567890123 ยอด 5000 บาท","category":"MULTI"}
+{"doc_id":"HP-007","text":"บริษัท สมชายพาณิชย์ จำกัด มีนายสมชาย เป็นเจ้าของ","category":"NESTED"}
+{"doc_id":"HP-008","text":"โรงพยาบาลรามาธิบดี โดย นพ. ประเสริฐ สุขใจ","category":"NESTED"}
+{"doc_id":"HP-009","text":"ดร. วิรัช มานะ อาจารย์ประจำมหาวิทยาลัยเชียงใหม่","category":"NESTED"}
+{"doc_id":"HP-010","text":"Mr. Somchai Jaidee ส่งเอกสารเรียบร้อยแล้ว","category":"ROMANIZED"}
+{"doc_id":"HP-011","text":"ผู้จัดการชื่อ Michael Chen จะติดต่อกลับ","category":"ROMANIZED"}
+{"doc_id":"HP-012","text":"คุณ Somsak Wong เป็นพยานในเหตุการณ์","category":"ROMANIZED"}

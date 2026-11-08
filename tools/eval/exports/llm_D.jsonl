@@ -1,0 +1,12 @@
+{"doc_id": "HP-000", "type": "ADDRESS", "start": 0, "end": 51}
+{"doc_id": "HP-001", "type": "ADDRESS", "start": 0, "end": 40}
+{"doc_id": "HP-004", "type": "PHONE", "start": 18, "end": 30}
+{"doc_id": "HP-005", "type": "PHONE", "start": 36, "end": 47}
+{"doc_id": "HP-005", "type": "PHONE", "start": 52, "end": 63}
+{"doc_id": "HP-006", "type": "NAME", "start": 10, "end": 22}
+{"doc_id": "HP-006", "type": "PHONE", "start": 29, "end": 38}
+{"doc_id": "HP-009", "type": "ORG", "start": 27, "end": 47}
+{"doc_id": "HP-010", "type": "NAME", "start": 4, "end": 11}
+{"doc_id": "HP-010", "type": "NAME", "start": 12, "end": 18}
+{"doc_id": "HP-011", "type": "NAME", "start": 14, "end": 26}
+{"doc_id": "HP-012", "type": "PERSON", "start": 0, "end": 15}

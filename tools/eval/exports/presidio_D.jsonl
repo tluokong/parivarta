@@ -1,0 +1,15 @@
+{"doc_id": "HP-004", "type": "EMAIL_ADDRESS", "start": 37, "end": 53}
+{"doc_id": "HP-004", "type": "URL", "start": 45, "end": 53}
+{"doc_id": "HP-004", "type": "PHONE_NUMBER", "start": 18, "end": 30}
+{"doc_id": "HP-004", "type": "TH_PHONE", "start": 18, "end": 30}
+{"doc_id": "HP-005", "type": "PHONE_NUMBER", "start": 36, "end": 47}
+{"doc_id": "HP-005", "type": "TH_PHONE", "start": 36, "end": 47}
+{"doc_id": "HP-005", "type": "TH_PHONE", "start": 52, "end": 63}
+{"doc_id": "HP-005", "type": "PHONE_NUMBER", "start": 52, "end": 63}
+{"doc_id": "HP-006", "type": "TH_NATIONAL_ID", "start": 29, "end": 42}
+{"doc_id": "HP-006", "type": "US_BANK_NUMBER", "start": 29, "end": 42}
+{"doc_id": "HP-006", "type": "US_DRIVER_LICENSE", "start": 29, "end": 42}
+{"doc_id": "HP-007", "type": "PERSON", "start": 0, "end": 6}
+{"doc_id": "HP-010", "type": "PERSON", "start": 4, "end": 18}
+{"doc_id": "HP-011", "type": "PERSON", "start": 14, "end": 26}
+{"doc_id": "HP-012", "type": "PERSON", "start": 4, "end": 15}

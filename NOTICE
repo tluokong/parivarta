@@ -1,0 +1,16 @@
+Parivarta
+Copyright 2026 Prasert Luekhong, Paradet Sakunwachirodom, and Kamolchanok Taweephon
+
+This product includes software and data developed by the authors and released
+under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party material
+--------------------
+* Parivarta/thai_words.txt and Parivarta/thai_person_names.txt are derived from
+  the PyThaiNLP corpus (https://github.com/PyThaiNLP/pythainlp). See the PyThaiNLP
+  project for the license terms of the original word and name lists.
+* The Thai NER model is NOT distributed in this repository. tools/convert_thai_ner.py
+  downloads pythainlp/thainer-corpus-v2-base-model from the Hugging Face Hub and
+  converts it to Core ML; that model is subject to its own license on the Hub.
+* Baseline runners in tools/eval/ call third-party tools (Microsoft Presidio,
+  spaCy, PyThaiNLP, Ollama), which are installed separately under their own licenses.

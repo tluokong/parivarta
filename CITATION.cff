@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "Parivarta: An On-Device Zero-Trust Pseudonymization Proxy for Privacy-Preserving Use of Cloud LLMs with Thai Text"
+authors:
+  - family-names: Luekhong
+    given-names: Prasert
+    affiliation: "National Cyber Security Agency (NCSA), Thailand"
+  - family-names: Sakunwachirodom
+    given-names: Paradet
+    affiliation: "National Cyber Security Agency (NCSA), Thailand"
+  - family-names: Taweephon
+    given-names: Kamolchanok
+    affiliation: "Rajamangala University of Technology Lanna (RMUTL), Thailand"
+license: Apache-2.0
+repository-code: "https://github.com/luekhong/parivarta"
+type: software
+preferred-citation:
+  type: conference-paper
+  title: "Parivarta: An On-Device Zero-Trust Pseudonymization Proxy for Privacy-Preserving Use of Cloud LLMs with Thai Text"
+  authors:
+    - family-names: Luekhong
+      given-names: Prasert
+    - family-names: Sakunwachirodom
+      given-names: Paradet
+    - family-names: Taweephon
+      given-names: Kamolchanok
+  conference:
+    name: "KICSS 2026"
+  year: 2026
